@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952281300072",
+    "project_id": "conjestaauth",
+    "storage_bucket": "conjestaauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952281300072:android:63fd7f58d1b90363a94fdd",
+        "android_client_info": {
+          "package_name": "com.example.congesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952281300072-qv73jki3rc2tubiju0ek7ijngo7144fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9ux__F97z_GW2_ffOn_YVM-PqGlP4yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952281300072-qv73jki3rc2tubiju0ek7ijngo7144fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
